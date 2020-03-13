@@ -61,7 +61,8 @@ Temporary Items
 bin/
 tmp/
 *.tmp
-*.bak
+// CSFIISCTF{justg3tp4ssw0rd!}
+*.bak // BACKUP FILES
 *.swp
 *~.nib
 local.properties
