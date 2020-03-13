@@ -1,0 +1,7 @@
+//<?php
+
+/* Define username and password */
+$Username = "admin";
+// to change the password you must modify the hash below
+$Password = "$2y$10$5WGjT/KTi5wMFo.L.ESpze56uvqnplnNvORnQRxbuE1mFu.QJxAVW";
+// OnlyHash123
