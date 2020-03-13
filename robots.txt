@@ -1,0 +1,4 @@
+User-agent: * Disallow:
+// Set endpoints
+// CSFIISCTF{d0n0ts33th4t}
+User-agent: * Disallow: /fl4g.txt
